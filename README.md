@@ -13,26 +13,6 @@ com = Pilot.Camera(width=300, height=300)
 
 ```
 ## 설명
-
-Uploading KakaoTalk_20240930_100653840.mp4…
-
-
-
-https://github.com/user-attachments/assets/fe330d54-e091-47f6-a0bc-771689099e59
-
-
-
-https://github.com/user-attachments/assets/e99aadf4-4527-4e85-87ff-d14e3ebcd60f
-
-
-
-https://github.com/user-attachments/assets/a9e9d085-0862-40fc-8987-a9b88b78e749
-
-
-
-https://github.com/user-attachments/assets/99e83c36-785d-40c3-9f73-c404f5221f9e
-
-
  - Pilot.Camera: 로봇의 시각적 데이터를 수집하기 위해 카메라 객체를 생성합니다. 📷
  - width & height: 카메라의 해상도를 설정합니다. 📏
 
@@ -233,3 +213,23 @@ print("카메라 팬과 틸트를 0도로 되돌렸습니다.")
 
 ## 🚦최종 정리
 이 프로젝트는 로봇의 자율 주행, 객체 추적, 충돌 회피 및 환경 감지를 위한 다양한 기능을 통합합니다. 각 단계는 로봇이 안전하고 효과적으로 작동할 수 있도록 설계되었습니다. 🛠️
+
+
+https://github.com/user-attachments/assets/b988bcd7-29b7-4de1-bffe-d4be62ffa73c
+
+
+
+https://github.com/user-attachments/assets/63ff7e08-0c0f-4d24-bbbe-a13a71049ca4
+
+
+
+https://github.com/user-attachments/assets/e098f051-8240-46f3-875f-6064831a5110
+
+
+
+https://github.com/user-attachments/assets/258e0f0a-6afd-4eed-baaf-b162f7c004b4
+
+
+
+https://github.com/user-attachments/assets/03d61a75-757c-4617-b620-4f479aa5a443
+
