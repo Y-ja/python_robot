@@ -13,6 +13,26 @@ com = Pilot.Camera(width=300, height=300)
 
 ```
 ## 설명
+
+Uploading KakaoTalk_20240930_100653840.mp4…
+
+
+
+https://github.com/user-attachments/assets/fe330d54-e091-47f6-a0bc-771689099e59
+
+
+
+https://github.com/user-attachments/assets/e99aadf4-4527-4e85-87ff-d14e3ebcd60f
+
+
+
+https://github.com/user-attachments/assets/a9e9d085-0862-40fc-8987-a9b88b78e749
+
+
+
+https://github.com/user-attachments/assets/99e83c36-785d-40c3-9f73-c404f5221f9e
+
+
  - Pilot.Camera: 로봇의 시각적 데이터를 수집하기 위해 카메라 객체를 생성합니다. 📷
  - width & height: 카메라의 해상도를 설정합니다. 📏
 
